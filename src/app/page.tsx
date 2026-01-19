@@ -30,7 +30,7 @@ export default function HomePage() {
   return (
     <main
       style={{
-        maxWidth: 720,
+        maxWidth: 710,
         margin: "40px auto",
         padding: 24,
         fontFamily: "system-ui",
