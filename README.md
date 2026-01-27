@@ -7,7 +7,7 @@ Minimal Next.js + Solana wallet adapter example.
 - Phantom / Solflare 
 - Connect / disconnect
 - Send SOL (devnet)
-- Clean Next.js app router setup
+
 
 ## Run locally
 
